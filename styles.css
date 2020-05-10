@@ -17,17 +17,17 @@ body {
 
 h1 {
   margin: 20px;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 4.5rem;
-  color: #4ECCA3;
+  color: #4ecca3;
   text-align: center;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
 }
 
 .img1 {
@@ -43,19 +43,19 @@ p {
 }
 
 footer {
-  margin-top: 4%;
-  color: #EEEEEE;
+  margin-top: 2%;
+  color: #eeeeee;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
 }
 
 .bottom-container {
-  margin-top: 12%;
+  margin-top: 5%;
   padding: 20px 0 10px;
 }
 
 .footer-link {
-  color: #11999E;
+  color: #11999e;
   margin-right: 20px;
 }
 
@@ -63,16 +63,16 @@ footer {
   color: #fff;
   font-size: 0.8rem;
   padding: 10px 0 5px;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 p .copyright {
   font-size: 1em;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   padding: 0px;
   margin: 0;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #eaf6f6;
 }
